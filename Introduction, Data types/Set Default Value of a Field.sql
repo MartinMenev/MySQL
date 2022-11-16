@@ -1,5 +1,4 @@
 
-
 ALTER TABLE people
 	ADD COLUMN last_login_time INT;
     
